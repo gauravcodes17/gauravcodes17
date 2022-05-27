@@ -27,6 +27,7 @@
 <a href="https://codepen.io/gauravcodes17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gaurav_singh09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gauravcodes17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauravs_dev" height="30" width="40" /></a>
 </p>
+<hr />
 
 ## Skill Set :muscle:
 
