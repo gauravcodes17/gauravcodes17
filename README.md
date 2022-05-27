@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/profile.php?id=100010552667421" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" alt="profile.php?id=100010552667421" height="50" width="100" /></a>
-<a href="https://instagram.com/_garv_rajput_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_garv_rajput_17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaurav-singh-52a23a199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-singh-52a23a199" height="30" width="40" /></a>
-<a href="https://codepen.io/gauravcodes17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gaurav_singh09" height="30" width="40" /></a>
+<a href="https://instagram.com/_garv_rajput_17" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="_garv_rajput_17" height="50" width="100" /></a>
+<a href="https://linkedin.com/in/gaurav-singh-52a23a199" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="gaurav-singh-52a23a199" height="50" width="100" /></a>
+<a href="https://codepen.io/gauravcodes17" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg" alt="gaurav_singh09" height="50" width="100" /></a>
 <a href="https://www.leetcode.com/gauravcodes17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauravs_dev" height="30" width="40" /></a>
 </p>
 
