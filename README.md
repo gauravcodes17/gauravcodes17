@@ -1,4 +1,4 @@
-<h1 align="center">Hi There,  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm Gaurav Singh</h1>
+<h1 align="center">Hi There,  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px"> I'm Gaurav Singh</h1>
 <h2 align="center">A Passionate Frontend Developer from 🇮🇳 India</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravcodes17&label=Profile%20views&color=0e75b6&style=flat" alt="gauravcodes17" /> </p>
